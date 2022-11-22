@@ -23,7 +23,7 @@ The shell is the main command-line interface between a user and the operating sy
 
 [nyush local]$ cd bin  
 
-[nyush bin]$ ¨€
+[nyush bin]$ â–ˆ
 
 #### jobs  
 [nyush lab2]$ jobs  
@@ -31,7 +31,7 @@ The shell is the main command-line interface between a user and the operating sy
 [2] /usr/bin/top -c  
 [3] cat > output.txt  
 
-[nyush lab2]$ ¨€
+[nyush lab2]$ â–ˆ
 
 #### fg <index>  
 [nyush lab2]$ jobs  
@@ -46,7 +46,7 @@ The shell is the main command-line interface between a user and the operating sy
 [2] cat > output.txt  
 [3] /usr/bin/top -c  
 
-[nyush lab2]$ ¨€
+[nyush lab2]$ â–ˆ
 
 #### exit
 [nyush lab2]$ exit
